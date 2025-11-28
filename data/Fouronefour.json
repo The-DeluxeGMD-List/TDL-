@@ -4,15 +4,18 @@
     "author": "TheDeluxeGMD",
     "creators": [],
     "verifier": "TheDeluxeGMD",
-    "verification":"https://youtu.be/TsimyLes21I?si=K6m5A87_IhoEWjXr",
-    "percentToQualify": "63",
+    "verification": "https://youtu.be/TsimyLes21I?si=xUcqzgkFZ4tTx0sv",
+    "percentToQualify": 100,
     "password": "Copyable",
-    "records": []
-}
+    "records": [
+        {
             "user": "(67) lily",
             "link": "https://youtu.be/PGzjkFqa3iQ?si=7MTd1l_nEJs8zzfO",
             "percent": 100,
-            "hz": 60
+            "hz": 360
+        }
+    ]
+}
         
     
 
